@@ -1,0 +1,6 @@
+{
+  "name": "BOURCHIM - المنظومة الرقمية الوطنية الموحدة",
+  "description": "منصة بورشيم الموحدة للتجارة، العقارات، العمل عن بعد، وتطوير المهارات والشراكات بالمغرب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
